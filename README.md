@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)](#installation)
 
-[**🔗 Try the live dashboard →**](https://gas-hourly-forecast.streamlit.app/)
+[**🔗 Due to inactivity, the live demo is no longer working :( →**](https://gas-hourly-forecast.streamlit.app/)
 
 <img src="assets/demo.gif" width="720" alt="Dashboard demo — map of France, forecasts and live pipeline">
 
